@@ -1,0 +1,9 @@
+.buildlog/
+.dart_tool/
+.packages
+.idea/
+.vscode/
+.env
+**/build/
+ios/Pods/
+android/.gradle/

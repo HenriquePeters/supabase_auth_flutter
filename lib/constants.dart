@@ -1,0 +1,2 @@
+const String kEnvSupabaseUrl = 'https://zvvkbstxmaswqkbvntzq.supabase.co';
+const String kEnvSupabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp2dmtic3R4bWFzd3FrYnZudHpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEwODcyMzksImV4cCI6MjA3NjY2MzIzOX0.G3sIoLGCG5o1PIOIKQKR1TJ2ayBxJdQmcOkSmDkaX4c';
